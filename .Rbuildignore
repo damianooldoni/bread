@@ -2,7 +2,7 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^\.github$
-^CITATION\.cff$
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^CITATION\.cff$
